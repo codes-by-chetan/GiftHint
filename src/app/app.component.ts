@@ -42,8 +42,8 @@ export class AppComponent implements OnInit{
   relationshipStatus: string = '';
   partnerName: string = '';
   programmingAnswer: string = '';
-  hint1: string = 'Look under the Christmas tree!';
-  hint2: string = 'Check inside the biggest ornament!';
+  hint1: string = 'Look behind your Monitor!';
+  hint2: string = 'Check Backside Ports Of Your Computer!';
   showCongrats: boolean = false;
   showTryAgain: boolean = false;
   showChristmasWish: boolean = false;
